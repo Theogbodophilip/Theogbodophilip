@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ogbodo Philip
-- 👀 I’m interested in Javascript Development with god knowledge of React and React Native
+- 👀 I’m interested in Javascript Development.I have good knowledge of React and React Native, Node JS, Express JS and Mongo DB
 - 🌱 I’m currently learning Web 3
 - 💞️ I’m looking to collaborate on both front end and back end projects
 - 📫 How to reach me via misterogbodophilip@gmail.com
